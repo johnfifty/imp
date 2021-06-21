@@ -1,0 +1,4 @@
+Checks: '*, -abseil-*, -altera-*, -android-*, -boost-*, -cert-*, -clang-analyzer-*, -darwin-*, -fuchsia-*, -linuxkernel-*, -llvmlibc-*, -mpi-*, -objc-*, -zircon-*, -llvm-header-guard, -modernize-use-trailing-return-type'
+HeaderFilterRegex: '.*'
+WarningsAsErrors: '-*'
+FormatStyle: none
